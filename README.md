@@ -8,7 +8,8 @@ I’ll update this 'README.md' file with the link of the written version of this
 
 ## Project Overview
 
-<iframe width="832" height="518" src="https://www.youtube.com/embed/FVrKsOhv9LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Cryptocurrency Application Overview](http://img.youtube.com/vi/FVrKsOhv9LY/0.jpg)](https://www.youtube.com/watch?v=FVrKsOhv9LY "Audi R8")
+
 
 ## Is any API Key Will Be Required for This Application?
 
