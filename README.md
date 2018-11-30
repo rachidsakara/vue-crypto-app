@@ -7,8 +7,9 @@
 I’ll update this 'README.md' file with the link of the written version of this application once it got published. So, stay tunned! 
 
 ## Project Overview
+> This the YouTube video that explain the basic functionality of this project: https://www.youtube.com/watch?v=FVrKsOhv9LY.
 
-[![Cryptocurrency Application Overview](https://i.ibb.co/nzvFRDf/News-component.png?raw=true)](https://www.youtube.com/watch?v=FVrKsOhv9LY "Cryptocurrency Application Overview")
+[![Cryptocurrency Application Overview](https://i.ibb.co/hWrQqN2/News-component.png?raw=true)](https://www.youtube.com/watch?v=FVrKsOhv9LY "Cryptocurrency Application Overview")
 
 
 ## Is any API Key Will Be Required for This Application?
