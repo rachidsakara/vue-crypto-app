@@ -4,7 +4,7 @@
 
 ## Note
 
-I’ll update this 'README.md' file with the link of the written version of this application once it got published. So, stay tunned! 
+> I’ll update this `README.md` file with the link of the written version of this application once it got published. So, stay tunned! 
 
 ## Project Overview
 > This is a YouTube video that explain the basic functionality of this project: https://www.youtube.com/watch?v=FVrKsOhv9LY.
@@ -14,7 +14,7 @@ I’ll update this 'README.md' file with the link of the written version of this
 
 ## Is any API Key Will Be Required for This Application?
 
-The answer is 'No'. No Sing Up process or any API key will be required for this application.
+> The answer is `No`. No Sing Up process or any API key will be required for this application.
 
 ## Build Setup
 
