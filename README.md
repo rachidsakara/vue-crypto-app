@@ -8,7 +8,7 @@ I’ll update this 'README.md' file with the link of the written version of this
 
 ## Project Overview
 
-![cryptocurrency application](https://i.ibb.co/TKt4LnW/Project-Overview.gif?raw=true)
+<img src="https://i.ibb.co/TKt4LnW/Project-Overview.gif" title="cryptocurrency application overview" />
 
 ## Is any API Key Will Be Required for This Application?
 
