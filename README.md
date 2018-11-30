@@ -8,7 +8,7 @@ I’ll update this 'README.md' file with the link of the written version of this
 
 ## Project Overview
 
-[![Cryptocurrency Application Overview](http://img.youtube.com/vi/FVrKsOhv9LY/0.jpg?raw=true)](https://www.youtube.com/watch?v=FVrKsOhv9LY "Cryptocurrency Application Overview")
+[![Cryptocurrency Application Overview](https://i.ibb.co/nzvFRDf/News-component.png?raw=true)](https://www.youtube.com/watch?v=FVrKsOhv9LY "Cryptocurrency Application Overview")
 
 
 ## Is any API Key Will Be Required for This Application?
