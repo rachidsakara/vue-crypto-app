@@ -2,9 +2,9 @@
 
 > Cryptocurrency application with Vue.js, Bulma CSS framework and the CryptoCompare API service.
 
-## Note
+## The Written Tutorial:
 
-> I’ll update this `README.md` file with the link of the written version of this application once it got published. So, stay tunned! 
+> You can find the full written tutorial of this application in the following medium post: https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099
 
 ## Project Overview
 > This is a YouTube video that explains the basic functionality of this project: https://www.youtube.com/watch?v=FVrKsOhv9LY.
